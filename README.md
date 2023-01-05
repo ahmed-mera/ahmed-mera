@@ -24,9 +24,9 @@
 ## 🖥️ Fav Tech Stack
 
 - Docker
-- Java
 - SpringBoot
 - Microservices
+- Java
 - MongoDB
 - MySQL
 

@@ -11,8 +11,6 @@
 <table><tr><td valign="top" width="75%">
 
 ## 👋 Hi, I Am Ahmed
-
-- I am a Computer Scientist interested in Web and applications.
  
 </td><td valign="top" width="25%">
 

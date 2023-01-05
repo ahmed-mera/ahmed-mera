@@ -12,12 +12,7 @@
 
 ## 👋 Hi, I Am Ahmed
 
-- I am a Computer Scientist interested in Web3 and DevRel.
-- I have worked from 2017 to 2020 on the [Copernicus project](https://en.wikipedia.org/wiki/Copernicus_Programme) for the ESA, European Space Agency, as a Fullstack Developer.
-- [Docker Captain](https://www.docker.com/captains/francesco-ciulla) since June 2021
-- I have interviewed 185+ Developers on my [YouTube Channel](https://youtu.be/Wh6r6xHPEIg). 
-- I am a Developer Advocate at [daily.dev](https://daily.dev) 
-- I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
+- I am a Computer Scientist interested in Web and applications.
  
 </td><td valign="top" width="25%">
 

@@ -12,6 +12,7 @@
 
 ## 👋 Hi, I Am Ahmed
  
+ - I am backend software developer and work on web and mobile applications. 
  - I am passionate about computer science, ambitious and motivated.
  - I always work to increase my skills and deepen my knowledge. 
  - I approach every obstacle as a challenge, and my motivation leads me to approach this to the best of my ability and in a purposeful spirit.

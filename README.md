@@ -19,18 +19,19 @@
 - I am a Developer Advocate at [daily.dev](https://daily.dev) 
 - I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
  
-</td><td valign="top" width="25%">
+</td><td valign="top" width="40%">
 
 ## 🖥️ Fav Tech Stack
 
 - Docker
-- Kubernetes
-- Postgres 
-- Node.js
-- Grafana
-- Next.js
-- Rust (new)
- 
+- Java
+- SpringBoot
+- Microservices
+- Web services (REST/SOAP)
+- MongoDB
+- MySQL
+- MariaDB
+
 </tr></tr></table> 
 
  

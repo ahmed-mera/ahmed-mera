@@ -8,7 +8,7 @@
 </div>
 
 
-<table><tr><td valign="top" width="75%">
+<table><tr><td valign="top" width="70%">
 
 ## 👋 Hi, I Am Ahmed
 
@@ -19,7 +19,7 @@
 - I am a Developer Advocate at [daily.dev](https://daily.dev) 
 - I have founded [4C](https://discord.com/invite/cRjhjFRRre) a community focused on Content Creation.
  
-</td><td valign="top" width="40%">
+</td><td valign="top" width="30%">
 
 ## 🖥️ Fav Tech Stack
 

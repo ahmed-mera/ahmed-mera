@@ -27,10 +27,8 @@
 - Java
 - SpringBoot
 - Microservices
-- Web services (REST/SOAP)
 - MongoDB
 - MySQL
-- MariaDB
 
 </tr></tr></table> 
 

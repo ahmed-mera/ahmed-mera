@@ -10,10 +10,10 @@
 
 <table><tr><td valign="top" width="75%">
 
-## 👋 Hi, I Am Ahmed
+## 👋 Hi, I'm Ahmed Mera
  
- - I am backend software developer and work on web and mobile applications. 
- - I am passionate about computer science, ambitious and motivated.
+ - I'm backend software developer and work on web and mobile applications. 
+ - I'm passionate about computer science, ambitious and motivated.
  - I always work to increase my skills and deepen my knowledge. 
  - I approach every obstacle as a challenge, and my motivation leads me to approach this to the best of my ability and in a purposeful spirit.
  

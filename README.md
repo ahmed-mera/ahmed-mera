@@ -67,7 +67,7 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-mera&show_icons=true&locale=en&include_all_commits=true&theme=ambient_gradient&show_owner=true&rank_icon=github" alt="ahmed-mera" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-mera&show_icons=true&locale=en&theme=ambient_gradient&show_owner=true&rank_icon=github&include_all_commits=true" alt="ahmed-mera" /></p>
 
 [website]: https://mera-tech.it
 [mail]: mailto:ahmedmera81136@gmail.com

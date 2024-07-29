@@ -25,8 +25,8 @@
 - SpringBoot
 - Microservices
 - Java
+- DBMSR
 - MongoDB
-- MySQL
   
 </tr></tr></table> 
 

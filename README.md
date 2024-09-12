@@ -1,77 +1,15 @@
-
-<div align=center>
-
-&ensp;<a target="_blank" href="https://gitlab.com/users/ahmed-mera/projects"><img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" title="GitLab" alt="GitLab Account" width="30"/></a>
-&ensp;<a target="_blank" href="https://www.linkedin.com/in/ahmed-mera-096334186/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
-<a target="_blank"  href="https://twitter.com/__ahmedmera"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
-&ensp;<a target="_blank" href="https://www.instagram.com/_ahmed.mera_/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2016-5.svg" title="Instagram" alt="Instagram Account" width="30"/></a> 
-</div>
+# 💫 About Me:
+💻 Sviluppatore backend in missione per costruire fantastiche applicazioni web e mobile!<br>🧙‍♂️ Obsessed with computer science and constantly pushing my limits.<br>🚀 Driven by a love for computer science and a thirst for knowledge. I see challenges as opportunities to shine! ✨
 
 
-<table><tr><td valign="top" width="75%">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ahmed.mera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mera-096334186) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13276541) 
 
-## 👋 Hi, I'm Ahmed Mera
- 
- - I'm backend software developer and work on web and mobile applications. 
- - I'm passionate about computer science, ambitious and motivated.
- - I always work to increase my skills and deepen my knowledge. 
- - I approach every obstacle as a challenge, and my motivation leads me to approach this to the best of my ability and in a purposeful spirit.
- 
-</td><td valign="top" width="25%">
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmed-mera&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-mera&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-mera&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🖥️ Fav Tech Stack
-
-- Docker 
-- SpringBoot
-- Microservices
-- Java
-- DBMSR
-- MongoDB
-  
-</tr></tr></table> 
-
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # (### Connect with me:)
-
-[//]: # ()
-[//]: # ([<img src="https://img.shields.io/badge/-toyamarodrigo.com-474747?style=for-the-badge&logo=circle&logoColor=white" />][website])
-
-[//]: # ([<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin])
-
-[//]: # ([<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram])
-
-[//]: # ([<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />][mail])
-
-
-[//]: # (---)
-
-[//]: # ()
-[//]: # (### Languages and Tools:)
-
-[//]: # ()
-[//]: # (<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />)
-
-[//]: # (<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />)
-
-[//]: # (<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />)
-
-[//]: # (<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />)
-
-[//]: # (<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />)
-
-[//]: # ()
-[//]: # (<br/>)
-
----
-
-<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-mera&show_icons=true&locale=en&theme=ambient_gradient&show_owner=true&rank_icon=github&include_all_commits=true" alt="ahmed-mera" /></p>
-
-[website]: https://mera-tech.it
-[mail]: mailto:ahmedmera81136@gmail.com
-[instagram]: https://www.instagram.com/_ahmed.mera_
-[linkedin]: https://www.linkedin.com/in/ahmed-mera-096334186
-
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
